@@ -13,10 +13,8 @@ Repositori ini mengikuti tutorial dari playlist YouTube oleh `Web Programming UN
 - CRUD (Create, Read, Update, Delete) untuk postingan blog
 - Eloquent ORM & relasi antar tabel
 - Validasi form
-- Authentication menggunakan Laravel Breeze
-- Pagination
-- File upload (gambar postingan)
-- Middleware dan proteksi route
+- N + 1 Problem
+- Searching & Pagination
 
 ## 🛠️ Teknologi
 - Laravel 11
